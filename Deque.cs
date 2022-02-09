@@ -1,5 +1,5 @@
 ﻿
-namespace System.Collections.GenericExtension
+namespace Collections.GenericExtension
 {
     using System;
     using System.Collections.Generic;
