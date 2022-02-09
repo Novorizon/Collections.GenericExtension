@@ -1,5 +1,5 @@
 {
-    "name": "Collections.GenericExtension",
+    "name": "System.Collections.GenericExtension",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
