@@ -1,0 +1,11 @@
+{
+  "name": "com.guanjinbiao.collections.genericextension",
+  "displayName": "Collections.GenericExtension",
+  "description": "Collections Generic Extension",
+  "version": "1.1.0",
+  "unity": "2020.3",
+  "license": "MIT",
+  "author": {
+    "name": "Guan Jinbiao"
+  }
+}
